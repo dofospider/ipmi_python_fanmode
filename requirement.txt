@@ -1,0 +1,9 @@
+/*
+ * @Author: dofospider
+ * @since: 2021-07-28 17:57:05
+ * @lastTime: 2021-07-28 17:58:29
+ * @LastAuthor: Do not edit
+ */
+Package            Version
+------------------ ---------
+requests-html      0.10.0
